@@ -1,4 +1,4 @@
-# Corona WhatApp-Bot Live
+# Sinatra Boilerplate
 > A simple boilerplate for sinatra
 
 
