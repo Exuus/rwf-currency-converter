@@ -1,5 +1,5 @@
-# Sinatra Boilerplate
-> A simple boilerplate for sinatra
+# Rwf currency converter
+> A simple service to convert rwf to popular currencies written in ruby and sinatra
 
 
 <!-- Markdown link & img dfn's -->
